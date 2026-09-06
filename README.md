@@ -2,6 +2,21 @@
 
 > A local-first AI-assisted traditional culture study workbench.
 
+<p align="center">
+  <a href="#project-highlights"><b>Project Highlights</b></a>
+  ·
+  <a href="#architecture"><b>Architecture</b></a>
+  ·
+  <a href="docs/architecture.md"><b>Architecture Case Study</b></a>
+  ·
+  <a href="#product-preview"><b>Product Preview</b></a>
+</p>
+
+<p align="center">
+  Deterministic Systems · Grounded AI · Reproducible Sessions · Local-first
+</p>
+
+---
 **观象知微研习录** 是一个面向个人研习、观察与复盘的传统文化工具，也是一个关于 **确定性系统与生成式 AI 如何协作** 的 AI 应用工程项目。
 
 这个项目重点探索：
