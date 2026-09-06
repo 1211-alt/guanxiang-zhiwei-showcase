@@ -238,15 +238,37 @@ AI evidence boundaries
 backup compatibility
 Tarot manifest completeness
 presentation/domain isolation
-## Screenshots
+## Product Preview
 
-Coming soon:
+### Home
 
-Home
-Divination Wizard
-Tarot Reveal
-Result
-AI Interpretation
+<p align="center">
+  <img src="docs/screenshots/home.png" width="360" alt="Guanxiang Zhiwei home screen">
+</p>
+
+### Divination Workflow
+
+<p align="center">
+  <img src="docs/screenshots/divination.png" width="360" alt="Multi-engine divination workflow">
+</p>
+
+### Tarot Reveal
+
+<p align="center">
+  <img src="docs/screenshots/tarot-reveal.png" width="360" alt="Interactive Tarot reveal experience">
+</p>
+
+### Cross-engine Synthesis
+
+<p align="center">
+  <img src="docs/screenshots/result.png" width="360" alt="Cross-engine synthesis result">
+</p>
+
+### Daliuren Deterministic Result
+
+<p align="center">
+  <img src="docs/screenshots/daliuren.png" width="360" alt="Daliuren deterministic engine result">
+</p>
 ## Current Status
 
 The project is currently paused after completing the main application architecture and production Tarot Reveal flow.
