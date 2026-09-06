@@ -78,6 +78,7 @@ AI 只解释已经确定并持久化的结果。
 
 ## Architecture
 
+👉 **[Read the architecture case study](docs/architecture.md)**
 ```mermaid
 flowchart TD
 
